@@ -1,0 +1,15 @@
+
+package = encapsulamento que já vem com padrão quando criamos algo sem 
+encapsulamento, ele só deixa ser acessado nos arquivo que estão no mesmo pacote 
+
+public = encapsulamento que em qualquer parte do codigo posso usar porque ele é 
+publico
+
+private = encapsulamento que só pode ser usado quando estar no mesmo arquivo do 
+codigo porque é privado
+
+protected = encapsulamento que só pode ser usado quando estar no mesmo arquivo do 
+codigo, porém quando tem uma relação de herança com a classe que tem um atributo 
+ou uma função com esse encapsulamento a classe filha tem acesso a tudo que estar 
+protected da classe pai
+

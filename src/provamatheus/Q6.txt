@@ -1,0 +1,5 @@
+
+variavel local é uma variavel momentânea são criada geramente em metodos, a vida 
+util dela é até o metodo ser encerrado
+
+
